@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ANGULAR, and all other stuff needed 🤣
 - 👯 I’m looking to collaborate with other new and old devs
 - 🥅 2022 Goals: Find first Job, contribute to open source project
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to learn by helping others. I can tell a joke 😆
 
 ### Connect with me:
 
