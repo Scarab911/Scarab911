@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/GitHub-repo-blue)](https://github.com/Scarab911)
 
-## I'm a Husband, Father, Developer, Student and Gamer!!
+## I'm a Husband, Father, Developer, Entrepreneur, Student and Gamer!!
 
 - 🤓 Just finished carrier switch course from casino croupie to Frontend developer
 - 🌱 I’m currently learning ANGULAR, and all other stuff needed 🤣
