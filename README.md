@@ -40,7 +40,7 @@
 
 ### 📺 Latest YouTube Videos
 
-- not started yet, have an idea for live streaming(need better getter)
+- not started yet, have an idea for live streaming(need better gear)
 
 ---
 
