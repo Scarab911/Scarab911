@@ -2,12 +2,12 @@
 
 [![Website](https://img.shields.io/badge/GitHub-repo-blue)](https://github.com/Scarab911)
 
-## I'm a Husband, Father, Developer, Entrepreneur, Student and Gamer!!
+## Cyber Security Student, Programmer!!!
 
-- 🤓 Just finished carrier switch course from casino croupie to Frontend developer
-- 🌱 I’m currently learning ANGULAR, and all other stuff needed 🤣
-- 👯 I’m looking to collaborate with other new and old devs
-- 🥅 2022 Goals: Find first Job, contribute to open source project
+- 🤓 Just finished Google Cyber Security certificate
+- 🌱 I’m currently learning penetration testing on "TryHackMe" 🤣
+- 👯 Preparing for CompTIA Security+ exam
+- 🥅 2024 Goals: get Security+ land th first job as an entry level Security analyst
 - ⚡ Fun fact: I love to learn by helping others. I can tell a joke 😆
 
 ### Connect with me:
