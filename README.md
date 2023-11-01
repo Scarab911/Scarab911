@@ -7,7 +7,7 @@
 - 🤓 Just finished Google Cyber Security certificate
 - 🌱 I’m currently learning penetration testing on "TryHackMe" 🤣
 - 👯 Preparing for CompTIA Security+ exam
-- 🥅 2024 Goals: get Security+ land th first job as an entry level Security analyst
+- 🥅 2024 Goals: get Security+ land the first job as an entry level Security analyst
 - ⚡ Fun fact: I love to learn by helping others. I can tell a joke 😆
 
 ### Connect with me:
